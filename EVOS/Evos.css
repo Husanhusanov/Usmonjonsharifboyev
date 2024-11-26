@@ -1,0 +1,681 @@
+.orqa{
+    margin-top: 20px;
+    background-image: url(orqa.jpg);
+    width: 100%;
+    height: 20px;
+    background-repeat: repeat;
+
+}
+.a1 img{
+    width: 150px;
+    height: 60px;
+}
+.asos{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.a4 img{
+    width: 26px;
+    height: 26px;
+    position: relative;
+    margin-top: 12px;
+    left: 42px;
+}
+.a3 select{
+    width: 160px;
+    height: 50px;
+    text-align: center;
+}
+.asos1{
+    display: flex;
+    gap: 10px;
+    margin-left: 140px;
+}
+.a5 img{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    margin-top: 10px;
+    left: 6px;
+}
+.a33 select{
+    width: 140px;
+    height: 50px;
+    margin-left: -40px;
+    text-align: center;
+}
+.a12 select{
+    width: 180px;
+    height: 50px;
+    text-align: center;
+    margin-left: -50px;
+}
+.a23 img{
+    width: 60px;
+    height: 60px;
+    margin-top: -5px;
+}
+.a10 img{
+    width: 36px;
+    height: 36px;
+    border-radius: 100%;
+    margin-top: 8px;
+    position: relative;
+    left: 4px;
+}
+.fon{
+    width: 1887px;
+    height: 880px;
+    background-color:#32724e;
+    margin-top: 1px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.asos4{
+    position: relative;
+    margin-top: -800px;
+    margin-left: 300px;
+}
+.beshtasi img{
+    width: 160px;
+    height: 40px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.bot{
+    display: flex;
+    gap: 10px;
+}
+.b1n{
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    background-color:#259b07;
+    color: white;
+}
+.boy button:hover{
+    box-shadow: 0px 0px 3px 3px white; 
+    background-color:#259b07;
+}
+.bn{
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+}
+.bn{
+    color: white;
+    background-color: #32724e;
+}
+.boy1 img{
+    width: 770px;
+    height: 580px;
+    margin-top: -320px;
+    margin-left: 120px;
+    border-radius: 10px;
+}
+.asos6 {
+    margin-top: -80px;
+    margin-left: 300px;
+    display: flex;
+    position: relative;
+}
+.img1{
+    position: relative;
+    z-index: 1;
+    left: 8px;
+}
+.img2{
+    position: relative;
+    z-index: 2;
+}
+.img3{
+    position: relative;
+    z-index: 3;
+    left: -8px;
+}
+.img3 p{
+    position: relative;
+    z-index: 4;
+    margin-top: -35px;
+    margin-left: 80px;
+    color: white;
+}
+.matn p{
+    color: white;
+}
+.boaton{
+    display: flex;
+    gap: 20px;
+    margin-left: 1532px;
+    margin-top: -30px;
+}
+.bu1t button{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    position: relative;
+    margin-top: 60px;
+}
+.matiin p{
+    font-size: 16px;
+    margin-left: 20px;
+}
+.wer1:hover{
+    width: 80px;
+    height: 21px;
+    background-color: darkgray;
+}
+.matn10{
+    width: 1885px;
+    height: 21180px;
+    position: relative;
+    top: 40px;
+    background-color: rgb(228, 240, 250);
+    border: 1px solid black;
+}
+.div1 h1{
+    margin-top: 60px;
+    margin-left: 840px;
+}
+.matiin{
+    width: 1330px;
+    height: 50px;
+    margin-left: 290px;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 10px;
+    display: flex;
+    gap: 40px;
+}
+.matiin{
+    position: relative;
+    top: -21180px;
+}
+.div5t{
+    display: flex;
+    gap: 20px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.div5t p{
+    font-size: 16px;
+    margin-left: 15px;
+}
+.dv3{
+    width: 300px;
+    height: 380px;
+    background-color: white;
+    margin-top: 30px;
+}
+.dv3 img{
+    width: 300px;
+    height: 180px;
+}
+.dv3 button{
+    width: 260px;
+    height: 40px;
+    margin-left: 14px;
+}
+.dv3 button:hover{
+    background-color: rgb(232, 235, 22);
+}
+.dv2{
+    width: 380px;
+    height: 452px;
+    background-color: white;
+}
+.dv2 img{
+    width: 380px;
+    height: 210px;
+}
+.dv2 p{
+    font-size: 20px;
+}
+.dv2 button{
+    width: 340px;
+    height: 40px;
+    margin-left: 14px;
+    margin-top: 12px;
+}
+.dv2 button:hover{
+    background-color: rgb(232, 235, 22);
+}
+.belgi{
+    display: flex;
+    gap: 10px;
+    margin-top: 20px;
+    margin-left: 870px;
+}
+.gul button{
+    width: 50px;
+    height: 50px;
+    color: black;
+    background-color: white;
+    border-radius: 100%;
+}
+.yangiliklar5ta{
+    margin-left: 350px;
+    margin-top: 30px;
+}
+.yangibeshta{
+    margin-left: 350px;
+}
+.yangibeshta p{
+    font-size: 15px;
+    margin-left: 20px;
+}
+.yangiuchta p{
+    margin-left: 20px;
+}
+.yangibir p{
+    margin-left: 20px;
+}
+.yangiuchtasi p{
+    margin-left: 20px;
+}
+.yangitort{
+    display: flex;
+    gap: 20px;
+}
+.b41{
+    width: 300px;
+    height: 416px;
+    background-color: white;
+    margin-top: 30px;
+}
+.b41 h1{
+    margin-left: 14px;
+    font-size: 21px;
+}
+.bi21r{
+    margin-top: 40px;
+}
+.b41 button{
+    width: 260px;
+    height: 40px;
+    margin-left: 14px;
+}
+.b41 button:hover{
+    background-color: rgb(232, 235, 22);
+}
+.b41 img{
+    width: 300px;
+    height: 218px;
+}
+.b42{
+    width: 300px;
+    height: 416px;
+    background-color: white;
+    margin-top: 30px;
+}
+.b42 h1{
+    margin-left: 14px;
+    font-size: 21px;
+}
+.b42 h2{
+    margin-left: 14px;
+    font-size: 18px;
+}
+.b42 button{
+    width: 260px;
+    height: 40px;
+    margin-left: 14px;
+}
+.b42 button:hover{
+    background-color: rgb(232, 235, 22);
+}
+.b42 img{
+    width: 300px;
+    height: 218px;
+}
+.b43{
+    width: 300px;
+    height: 416px;
+    background-color: white;
+    margin-top: 30px;
+}
+.b43 h1{
+    margin-left: 14px;
+    font-size: 21px;
+}
+.bi1r{
+    margin-top: 20px;
+}
+
+.b43 button{
+    width: 260px;
+    height: 40px;
+    margin-left: 14px;
+}
+.b43 button:hover{
+    background-color: rgb(232, 235, 22);
+}
+.b43 img{
+    width: 300px;
+    height: 218px;
+}
+.yangiuchta{
+    display: flex;
+    gap: 20px;
+}
+.b40{
+    width: 300px;
+    height: 416px;
+    background-color: white;
+    margin-top: 30px;
+}
+.b40 h1{
+    margin-left: 14px;
+    font-size: 21px;
+}
+.bi31r{
+    margin-top: 40px;
+}
+.b40 button{
+    width: 260px;
+    height: 40px;
+    margin-left: 14px;
+}
+.b40 button:hover{
+    background-color: rgb(232, 235, 22);
+}
+.b40 img{
+    width: 300px;
+    height: 218px;
+}
+.yangibir{
+    display: flex;
+    gap: 20px;
+    margin-left: 346px;
+}
+.yangiuchtasi{
+    display: flex;
+    gap: 20px;
+    margin-left: 346px;
+}
+.b44{
+    width: 300px;
+    height: 416px;
+    background-color: white;
+    margin-top: 30px;
+}
+.b44 h1{
+    margin-left: 14px;
+    font-size: 21px;
+}
+.b44 p{
+    margin-left: 14px;
+    margin-top: 32px;
+}
+
+
+.b44 button{
+    width: 260px;
+    height: 40px;
+    margin-left: 14px;
+    margin-top: 40px;
+}
+.b44 button:hover{
+    background-color: rgb(232, 235, 22);
+}
+.b44 img{
+    width: 300px;
+    height: 218px;
+}
+.b32{
+    width: 300px;
+    height: 480px;
+    background-color: white;
+    margin-top: 30px;
+}
+.b32 h1{
+    margin-left: 14px;
+    font-size: 21px;
+}
+.b32 p{
+    font-size: 23px;
+    margin-left: 14px;
+    margin-top: 20px;
+}
+.b32 button{
+    width: 260px;
+    height: 40px;
+    margin-top: -2px;
+    margin-left: 14px;
+}
+.b32 button:hover{
+    background-color: rgb(232, 235, 22);
+}
+.b32 img{
+    width: 300px;
+    height: 218px;
+}
+.nega{
+    font-size: 20px;
+    margin-left: 900px;
+}
+.Nega3ta{
+    display: flex;
+    gap: 1px;
+    margin-left: 346px;
+}
+.negabir h1{
+    font-size: 22px;
+}
+.negabir img{
+    width: 80px;
+    height: 80px;
+    margin-top: 25px;
+}
+.negabir p{
+    font-size: 22px;
+}
+.negabir{
+    width: 440px;
+    height: 428px;
+    color: black;
+    text-align: center;
+    border-right: solid 1px;
+    border-bottom: solid 1px;
+}
+.negabir:hover{
+    background-color: white;
+}
+.negabi1r h1{
+    font-size: 22px;
+}
+.negabi1r img{
+    width: 80px;
+    height: 80px;
+    margin-top: 25px;
+}
+.negabi1r p{
+    font-size: 24px;
+}
+.negabi1r{
+    width: 440px;
+    height: 328px;
+    color: black;
+    text-align: center;
+    border-right: solid 1px;
+}
+.negabi1r:hover{
+    background-color: white;
+}
+.negabi2r{
+    width: 440px;
+    height: 328px;
+    color: black;
+    text-align: center;
+}
+.negabi2r:hover{
+    background-color: white;
+}
+.negabi2r h1{
+    font-size: 22px;
+}
+.negabi2r img{
+    width: 80px;
+    height: 80px;
+    margin-top: 25px;
+}
+.negabi2r p{
+    font-size: 24px;
+}
+.negabi3r{
+    width: 440px;
+    height: 428px;
+    color: black;
+    text-align: center;
+    border-bottom: solid 1px;
+}
+.negabi3r:hover{
+    background-color: white;
+}
+.negabi2r h1{
+    font-size: 22px;
+}
+.negabi3r img{
+    width: 80px;
+    height: 80px;
+    margin-top: 25px;
+}
+.negabi3r p{
+    font-size: 24px;
+}
+.nega123ta{
+    display: flex;
+    gap:20px;
+    margin-top: 80px;
+    margin-left: 346px;
+}
+.Sevimlitaomlar{
+    margin-top: -70px;
+    margin-left: 150px;
+}
+.Sevimlitaomlar h1{
+    color: #259b07;
+    font-size: 70px;
+}
+.Sevimlitaomlar h2{
+    color: black;
+    font-size: 36px;
+    margin-top: -40px;
+}
+.Sevimlitaomlar p{
+    font-size: 18px;
+    color: rgb(112,111,111);
+}
+.qulay{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    margin-top: 66px;
+}
+.qulay h1{
+    font-size: 20px;
+    color: rgb(48, 47, 47);
+}
+.qulay img{
+    width: 60px;
+    height: 60px;
+}
+.rasmlar {
+    margin-top: 220px;
+    margin-left: 100px;
+}
+.rasmlar img{
+    width: 200px;
+    height: 60px;
+}
+.rasm{
+    margin-top: 40px;
+}
+.rasm img{
+    width: 200px;
+    height: 60px;
+}
+.rams img{
+    width: 120px;
+    height: 120px;
+    margin-top: 8px;
+    margin-left: 40px;
+}
+.telon13pro img:hover{
+    animation-name: telefon;
+    animation-duration: 250ms;
+    animation-iteration-count: 4;
+    animation-delay: 50ms;
+}
+@keyframes telefon{
+    0%{}
+    30%{transform: rotate(10deg);}
+    60%{transform: rotate(-5deg);}
+}
+.pastiiikkita{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    width:1885px;
+    height: 250px;
+    background-color: rgb(102, 102, 102);
+}
+.pma{
+   display: flex;
+   gap: 20px;
+   text-align: center;
+   margin-top: 40px;
+   margin-left: 510px;
+   color: #000;
+}
+.pma p{
+    font-size: 20px;
+}
+.rasm1 img{
+    width: 200px;
+    height: 60px;
+    margin-left: 110px;
+}
+.rasm2 img{
+    width: 200px;
+    height: 60px;
+}
+.teinfebok{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
+.mapnt{
+    margin-left: 350px;
+}
+.mapnt p{
+    font-size: 18px;
+}
+.mapnt h2{
+    font-size: 12px;
+}
+.febook{
+    display: flex;
+    gap: 20px;
+}
+.febook img{
+    width: 50px;
+    height: 50px;
+}
+.insta{
+    margin-top: 20px;
+    margin-left: 800px;
+}
+button{
+    border-radius: 10px;
+}

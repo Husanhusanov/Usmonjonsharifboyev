@@ -1,0 +1,174 @@
+
+.a1 img{
+    width: 150px;
+    height: 60px;
+}
+.asos{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.a4 img{
+    width: 26px;
+    height: 26px;
+    position: relative;
+    margin-top: 12px;
+    left: 42px;
+}
+.a3 select{
+    width: 160px;
+    height: 50px;
+    text-align: center;
+}
+.asos1{
+    display: flex;
+    gap: 10px;
+    margin-left: 140px;
+}
+.a5 img{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    margin-top: 10px;
+    left: 6px;
+}
+.a33 select{
+    width: 140px;
+    height: 50px;
+    margin-left: -40px;
+    text-align: center;
+}
+.a12 select{
+    width: 180px;
+    height: 50px;
+    text-align: center;
+    margin-left: -50px;
+}
+.a23 img{
+    width: 60px;
+    height: 60px;
+    margin-top: -5px;
+}
+.a10 img{
+    width: 36px;
+    height: 36px;
+    border-radius: 100%;
+    margin-top: 8px;
+    position: relative;
+    left: 4px;
+}
+.asos3{
+    width: 1910px;
+    height: 636px;
+    background-color: rgb(165, 165, 165);
+}
+.asosichi{
+    display: flex;
+    width: 1500px;
+    height: 500px;
+    background-color: white;
+    margin-left: 200px;
+    position: relative;
+    top: 20px;
+}
+.as102020{
+    margin-left: 50px;
+}
+.as102020 h1{
+    font-size: 50px;
+}
+.asosichi img{
+    width: 450px;
+    height: 500px;
+}
+.as102020 p{
+    width: 800px;
+    height: 200px;
+    font-size: 38px;
+}
+.as102020 button{
+    width: 500px;
+    height: 60px;
+    background-color:#259b07;
+    color: white;
+    font-size: 20px;
+    margin-top: 14px;
+    margin-left: 05px;
+}
+.orqasi button{
+    width: 120px;
+    margin-top: 34px;
+    margin-left: 930px;
+    height: 40px;
+    background-color: #259b07;
+    color: white;
+}
+.pastiikkita{
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    width:1910px;
+    height: 120px;
+    background-color:  rgb(151, 148, 148);
+}
+.pma{
+   display: flex;
+   gap: 20px;
+   text-align: center;
+   margin-top: 20px;
+   margin-left: 510px;
+   color: #000;
+   border-bottom: #615f5f solid;
+}
+.pma p{
+    font-size: 20px;
+}
+.rasm1 img{
+    width: 200px;
+    height: 60px;
+    margin-left: 110px;
+}
+.rasm2 img{
+    width: 200px;
+    height: 60px;
+}
+.teinfebok{
+    width: 1910px;
+    height: 100px;
+    display: flex;
+    gap: 20px;
+    text-align: center;
+    margin-top: 0px;
+    background-color: rgb(151, 148, 148);
+}
+.mapnt{
+    margin-left: 350px;
+}
+.mapnt p{
+    font-size: 18px;
+}
+.mapnt h2{
+    font-size: 12px;
+}
+.febook{
+    display: flex;
+    gap: 20px;
+}
+.febook img{
+    width: 50px;
+    height: 50px;
+}
+.insta{
+    margin-top: 20px;
+    margin-left: 800px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+button{
+    border-radius: 10px;
+}
